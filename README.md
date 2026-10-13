@@ -36,7 +36,7 @@ Verified with 4 screenshots interlinked proof:
 
 ## 🏗 Architecture Diagram – Tier 8 Goal – Architecture diagram in README, each service = repo – Interlinked 78 + 79
 
-[architecture](screenshots/demo4.jpg)
+![architecture](screenshots/demo4.jpg)
 
 ```text
 TIER 8 – ADVANCED BACKEND – MICROSERVICES – INTERLINKED
@@ -304,7 +304,7 @@ Verified: demo1 GET RUNNING 8088 Only Port 8088 No 9092 badge, demo2 Console NOT
 http://localhost:8088/api/notifications
 ```
 
-[demo1](screenshots/demo1.png)
+![demo1](screenshots/demo1.png)
 
 ---
 
@@ -325,7 +325,7 @@ Email sent to customer for order 9999
 ***************************************
 ```
 
-[demo2](screenshots/demo2.png)
+![demo2](screenshots/demo2.png)
 
 ---
 
@@ -337,7 +337,7 @@ Email sent to customer for order 9999
 > JSON: {"id":"9999","product":"ITWORKS","qty":9}
 ```
 
-[demo3](screenshots/demo3.png)
+![demo3](screenshots/demo3.png)
 
 ---
 
@@ -345,7 +345,7 @@ Email sent to customer for order 9999
 
 **Tier 8 GitHub Goal Achieved – Architecture diagram in README, each service = repo – Interlinked 78 + 79:**
 
-[architecture](screenshots/demo4.jpg)
+![architecture](screenshots/demo4.jpg)
 
 ---
 
